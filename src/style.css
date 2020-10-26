@@ -29,7 +29,7 @@ nav {
   overflow: hidden;
 }
 
-nav span {
+nav div {
   display: flex;
   align-items: center;
   justify-content: center;
