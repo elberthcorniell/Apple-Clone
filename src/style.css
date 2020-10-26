@@ -22,7 +22,13 @@ header {
 
 nav {
   background: rgb(139, 139, 139);
-  background: linear-gradient(180deg, rgba(139, 139, 139, 1) 0%, rgba(113, 113, 113, 1) 40%, rgba(94, 94, 94, 1) 50%, rgba(139, 139, 139, 1) 100%);
+  background: linear-gradient(
+    180deg,
+    rgba(139, 139, 139, 1) 0%,
+    rgba(113, 113, 113, 1) 40%,
+    rgba(94, 94, 94, 1) 50%,
+    rgba(139, 139, 139, 1) 100%
+  );
   background-repeat: repeat-x;
   height: 36px;
   width: 80vw;
