@@ -1,10 +1,10 @@
 body {
   margin: 0;
-  font: 12px/18px 'Open Sans', sans-serif;
+  font: 12px/18px "Open Sans", sans-serif;
 }
 
 header {
-  background-image: url('https://web.archive.org/web/20140301004302im_/http://images.apple.com/v/home/as/images/your_verse_hero.jpg');
+  background-image: url("https://web.archive.org/web/20140301004302im_/http://images.apple.com/v/home/as/images/your_verse_hero.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: bottom;
@@ -16,7 +16,7 @@ header {
 }
 
 nav {
-  background-image: url('https://web.archive.org/web/20140301054918im_/http://images.apple.com/global/nav/images/globalheader.png');
+  background-image: url("https://web.archive.org/web/20140301054918im_/http://images.apple.com/global/nav/images/globalheader.png");
   background-repeat: repeat-x;
   height: 36px;
   width: 80vw;
@@ -39,24 +39,24 @@ nav div {
 }
 
 h1 {
-    font-size: 50px;
-    font-weight: lighter;
+  font-size: 50px;
+  font-weight: lighter;
 }
 
 h2 {
-    font-size: 30px;
-    line-height: 40px;
-    font-weight: lighter;
+  font-size: 30px;
+  line-height: 40px;
+  font-weight: lighter;
 }
 
 h3 {
-    font-size: 20px;
-    line-height: 40px;
+  font-size: 20px;
+  line-height: 40px;
 }
 
 a {
-    text-decoration: none;
-    color: #0088cc;
+  text-decoration: none;
+  color: #08c;
 }
 
 form {
@@ -92,25 +92,25 @@ input:focus {
 }
 
 footer {
-    padding: 30px;
-    display: flex;
-    font-size: 10px;
-    justify-content: space-around;
+  padding: 30px;
+  display: flex;
+  font-size: 10px;
+  justify-content: space-around;
 }
 
 ul {
-    list-style: none;
+  list-style: none;
 }
 
 ul li {
-    display: inline;
-    border-right: 1px solid rgba(0, 0, 0, 0.2);
-    padding: 0 10px;
-    white-space: nowrap;
+  display: inline;
+  border-right: 1px solid rgba(0, 0, 0, 0.2);
+  padding: 0 10px;
+  white-space: nowrap;
 }
 
 ul li:last-child {
-    border: none;
+  border: none;
 }
 
 .header-text {
@@ -118,24 +118,24 @@ ul li:last-child {
 }
 
 .product-grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-    column-gap: 2px;
-    height: 14.22vw;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  column-gap: 2px;
+  height: 14.22vw;
 }
 
 .fives {
-  background-image: url('https://web.archive.org/web/20140301004610im_/http://images.apple.com/home/images/promo_iphone5s.jpg');
+  background-image: url("https://web.archive.org/web/20140301004610im_/http://images.apple.com/home/images/promo_iphone5s.jpg");
 }
 
 .fivec {
-  background-image: url('https://web.archive.org/web/20140301004610im_/http://images.apple.com/home/images/promo_iphone5c.jpg');
+  background-image: url("https://web.archive.org/web/20140301004610im_/http://images.apple.com/home/images/promo_iphone5c.jpg");
 }
 
 .mac {
-  background-image: url('https://web.archive.org/web/20140301004610im_/http://images.apple.com/home/images/promo_30_years.jpg');
+  background-image: url("https://web.archive.org/web/20140301004610im_/http://images.apple.com/home/images/promo_30_years.jpg");
 }
 
 .supplier {
-  background-image: url('https://web.archive.org/web/20140301004610im_/http://images.apple.com/home/images/promo_supplier_responsibility.jpg');
+  background-image: url("https://web.archive.org/web/20140301004610im_/http://images.apple.com/home/images/promo_supplier_responsibility.jpg");
 }
