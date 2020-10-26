@@ -126,16 +126,24 @@ ul li:last-child {
 
 .fives {
   background-image: url("https://web.archive.org/web/20140301004610im_/http://images.apple.com/home/images/promo_iphone5s.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .fivec {
   background-image: url("https://web.archive.org/web/20140301004610im_/http://images.apple.com/home/images/promo_iphone5c.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .mac {
   background-image: url("https://web.archive.org/web/20140301004610im_/http://images.apple.com/home/images/promo_30_years.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .supplier {
   background-image: url("https://web.archive.org/web/20140301004610im_/http://images.apple.com/home/images/promo_supplier_responsibility.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
