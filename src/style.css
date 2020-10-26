@@ -3,6 +3,11 @@ body {
   font: 12px/18px "Open Sans", sans-serif;
 }
 
+a {
+  text-decoration: none;
+  color: #08c;
+}
+
 header {
   background-image: url("https://web.archive.org/web/20140301004302im_/http://images.apple.com/v/home/as/images/your_verse_hero.jpg");
   background-size: cover;
@@ -16,8 +21,8 @@ header {
 }
 
 nav {
-  background: rgb(139,139,139);
-  background: linear-gradient(180deg, rgba(139,139,139,1) 0%, rgba(113,113,113,1) 40%, rgba(94,94,94,1) 50%, rgba(139,139,139,1) 100%); 
+  background: rgb(139, 139, 139);
+  background: linear-gradient(180deg, rgba(139, 139, 139, 1) 0%, rgba(113, 113, 113, 1) 40%, rgba(94, 94, 94, 1) 50%, rgba(139, 139, 139, 1) 100%); 
   background-repeat: repeat-x;
   height: 36px;
   width: 80vw;
@@ -58,11 +63,6 @@ h2 {
 h3 {
   font-size: 20px;
   line-height: 40px;
-}
-
-a {
-  text-decoration: none;
-  color: #08c;
 }
 
 form {
