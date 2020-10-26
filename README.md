@@ -4,7 +4,7 @@
 
 > This project required us to clone a 2014 version of the Apple landing page.
 
-![screenshot](./src/app_screenshot.png)
+![screenshot](./src/app_screenshot.jpg)
 
 Additional description about the project and its features.
 
